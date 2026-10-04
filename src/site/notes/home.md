@@ -26,7 +26,6 @@ A digital garden of musculoskeletal physiotherapy knowledge — clinical assessm
 - Every note cites its sources — click through to the underlying literature.
 
 ## About
+陪伴患者 治愈患者 成就患者
 
-This garden is built with [Obsidian](https://obsidian.md) and published with the [Digital Garden](https://github.com/oleeskild/obsidian-digital-garden) plugin.
-
-— *Adams Rehab Hub*
+— *Adams Rehab Hub*（一个前交叉三断的康复师）
